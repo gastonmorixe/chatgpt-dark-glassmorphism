@@ -1,6 +1,6 @@
 # ChatGPT Dark Glassmorphism UserStyle
 
-<img width="1297" alt="Screenshot 2025-05-05 at 11 17 39 AM" src="https://github.com/user-attachments/assets/10333a8e-df1e-43bb-b801-a72645a16162" />
+<p><img width="1297" alt="Screenshot 2025-05-05 at 11 17 39 AM" src="https://github.com/user-attachments/assets/10333a8e-df1e-43bb-b801-a72645a16162" /></p>
 
 A sleek, modern dark theme for [ChatGPT](https://chatgpt.com) featuring glassmorphism-inspired UI elements. This userstyle brings transparent panels, soft background blurs, and refined shadows to create an immersive dark mode experience.
 
