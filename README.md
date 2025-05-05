@@ -16,11 +16,8 @@ A sleek, modern dark theme for [ChatGPT](https://chatgpt.com) featuring glassmor
 
 1. Install a userstyle manager extension:
    * [Stylus for Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-2. Click **Install Style** or **Import** in your extension.
-3. Paste the contents of [`chatgpt-dark-glassmorphism.user.css`](./chatgpt-dark-glassmorphism.user.css) into the new style.
-4. Set the domain to `chatgpt.com` and save.
-5. Ensure **Dark Mode** is enabled on ChatGPT.
-6. Reload the page. Enjoy!
+2. Go to [userstyles.world/style/22207](https://userstyles.world/style/22207)
+3. Click **Install Style**
 
 ## Contributing
 
